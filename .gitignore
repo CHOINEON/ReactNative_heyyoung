@@ -1,0 +1,40 @@
+# React Native
+node_modules/
+build/
+android/app/build/
+ios/Pods/
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+.env
+.env.*
+# macOS
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+# VSCode
+.vscode/
+# Test/coverage
+coverage/
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+# Misc
+*.keystore
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig
+*.bak
+# GitHub Actions
+.github/workflows/*.secrets.enc
