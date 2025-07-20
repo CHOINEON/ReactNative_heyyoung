@@ -1,6 +1,6 @@
-# Shinhan Bank Hackathon Project
+# Hackathon Project Test
 
-A prototype mobile application built for the **Shinhan Bank Hackathon**, featuring:
+A prototype mobile application built for the **Hackathon**, featuring:
 
 - 📱 React Native for cross-platform app development  
 - 🚀 Automated CI/CD pipelines using **GitHub Actions**  
