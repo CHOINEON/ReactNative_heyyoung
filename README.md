@@ -3,7 +3,7 @@
 A prototype mobile application built for the **Hackathon**, featuring:
 
 - 📱 React Native for cross-platform app development  
-- 🚀 Automated CI/CD pipelines using **GitHub Actions**  
+- 🚀 Automated CI/CD pipelines using **GitHub Actions(Working on)**  
 - ☁️ Deployment on **AWS EC2**
 
 ---
